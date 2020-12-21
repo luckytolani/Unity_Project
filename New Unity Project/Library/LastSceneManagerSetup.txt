@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/startup.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/mario.unity
+  isLoaded: 1
+  isActive: 1
